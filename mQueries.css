@@ -1,0 +1,21 @@
+@media screen and (max-width:970px) {
+    #main-container {
+        width: 970px;
+    }
+    .auth-image {
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+   
+}
+
+@media only screen and (max-width: 639px) {
+    .auth-image {
+        width: 100%
+    }
+    p {
+        width: 100%
+    }
+}
